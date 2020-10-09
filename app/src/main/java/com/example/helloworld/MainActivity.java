@@ -9,9 +9,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class  MainActivity extends AppCompatActivity {
+public class  LoginActivity extends AppCompatActivity {
 
-    private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String TAG = LoginActivity.class.getSimpleName();
 
     private EditText txtUsername;
     private EditText txtPassword;
@@ -39,6 +39,6 @@ public class  MainActivity extends AppCompatActivity {
     private void onClickBtnLogin(){
         Toast.makeText(getParent(), "Button di Tekan", Toast.LENGTH_LONG).show();
         Toast.makeText(getParent(), txtUsername, Toast.LENGTH_LONG).show();
-        Toast.makeText(getParent(), txtUsername, Toast.LENGTH_LONG).show();
+        Toast.makeText(getParent(), txtPassword, Toast.LENGTH_LONG).show();
     }
 }
