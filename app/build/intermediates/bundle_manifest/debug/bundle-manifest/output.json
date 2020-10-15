@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.example.helloworld",
         "split": "",
-        "minSdkVersion": "16"
+        "minSdkVersion": "24"
       }
     }
   ]
