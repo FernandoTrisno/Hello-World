@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorMaroon"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="0.55"
+            android:layout_height="55dp"
+            android:text="E- Class"
+            android:textSize="16pt"
+            android:layout_marginRight="5dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite">
+        </TextView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/Daftarkelas"
+            android:layout_width="0dp"
+            android:layout_weight="0.25"
+            android:layout_height="50dp"
+            android:textSize="4.5pt"
+            android:text="Daftar Kelas" />
+
+        <Button
+            android:id="@+id/Pengumuman"
+            android:layout_width="0dp"
+            android:layout_weight="0.25"
+            android:layout_height="50dp"
+            android:textSize="4.5pt"
+            android:text="Pengumuman"/>
+
+        <Button
+            android:id="@+id/Tugas"
+            android:layout_width="0dp"
+            android:layout_weight="0.25"
+            android:layout_height="50dp"
+            android:textSize="4.5pt"
+            android:text="Tugas"/>
+
+        <Button
+            android:id="@+id/Nilai"
+            android:layout_width="0dp"
+            android:layout_weight="0.25"
+            android:layout_height="50dp"
+            android:textSize="4.5pt"
+            android:text="Nilai" />
+
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/fragmentTop"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/fragmentBottom"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp">
+    </FrameLayout>
+
+</LinearLayout>
+
+
+</LinearLayout>
