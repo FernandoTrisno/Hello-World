@@ -32,16 +32,16 @@
         "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pengumuman.xml.flat",
+        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_pengumuman.xml"
     },
     {
         "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pengumuman.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_pengumuman.xml"
+        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home1.xml.flat",
@@ -56,16 +56,20 @@
         "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragemen_kelas.xml.flat",
         "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragemen_kelas.xml"
     },
     {
+        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checklist_notif.xml.flat",
+        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\drawable\\checklist_notif.xml"
     },
     {
         "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
