@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\8ec5cb74520ea72e2465732f3e8e560c\constraint-layout-2.0.2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\0e8846c1e204e79a65a49499cf5cacc7\design-28.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -36,25 +36,33 @@ MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ferna\.gradle\cac
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\8dbf37106270662bcf8910d884c3388d\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\f9b4407e2d6f9e6d73e2e41e2d02eb35\print-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\d7fd0a6b82dbac033f938c982be39bd3\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:6:22-73
 application
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:8:5-32:19
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\8ec5cb74520ea72e2465732f3e8e560c\constraint-layout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:2.0.2] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\8ec5cb74520ea72e2465732f3e8e560c\constraint-layout-2.0.2\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\0e8846c1e204e79a65a49499cf5cacc7\design-28.0.0\AndroidManifest.xml:22:5-20
@@ -68,39 +76,55 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ferna\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:8:9-32
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:11:9-32
 	android:roundIcon
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.helloworld.HomeActivity
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:12:9-15:68
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:15:9-18:68
 	android:label
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:14:13-56
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:17:13-56
 	android:theme
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:15:13-56
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:16:13-63
 activity#com.example.helloworld.LoginActivity
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:16:19-48
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:19:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:23:27-74
+receiver#com.example.helloworld.ui.main.BroadcastReciver
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:exported
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:26:60-83
+	android:name
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:26:19-59
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.INPUT_METHOD_CHANGED
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:28:25-76
+action#android.intent.action.INPUT_METHOD_CHANGED
+ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:29:17-84
+	android:name
+		ADDED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml:29:25-82
 uses-sdk
 INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ferna\Documents\GitHub\Hello-World\app\src\main\AndroidManifest.xml

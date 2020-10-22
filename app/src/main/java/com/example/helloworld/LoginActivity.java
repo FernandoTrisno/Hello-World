@@ -1,14 +1,19 @@
 package com.example.helloworld;
 
+import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
+import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.RequiresApi;
+import android.support.v4.app.NotificationCompat;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
 public class LoginActivity extends AppCompatActivity {
 
     private static final String TAG = LoginActivity.class.getSimpleName();
@@ -27,13 +32,7 @@ public class LoginActivity extends AppCompatActivity {
         txtUsername=findViewById(R.id.txtUsername);
         txtPassword=findViewById(R.id.txtPassword);
         btnLogin=findViewById(R.id.btnLogin);
-        btnLogin.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                    onClickBtnLogin(v);
-
-            }
-        });
+        btnLogin.setOnClickListener(v -> onClickBtnLogin(v));
     }
     private void onClickBtnLogin(View v){
         Toast.makeText(getApplicationContext(), "Button di Tekan", Toast.LENGTH_LONG).show();
@@ -50,4 +49,5 @@ public class LoginActivity extends AppCompatActivity {
 
      //   startActivity(new Intent(this, HomeActivity.class));
     }
+
 }
