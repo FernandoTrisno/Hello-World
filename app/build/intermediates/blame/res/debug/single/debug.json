@@ -1,94 +1,110 @@
 [
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home1.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\activity_home1.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_film.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\item_film.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_top.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_top.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checklist_notif.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable\\checklist_notif.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pengumuman.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_pengumuman.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sok.jpg.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable\\sok.jpg"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home1.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\activity_home1.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pengumuman.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\fragment_pengumuman.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragemen_kelas.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragemen_kelas.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_checklist_notif.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\drawable\\checklist_notif.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aadc.jpg.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable\\aadc.jpg"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragemen_kelas.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\fragemen_kelas.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bottom.xml.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_top.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\fragment_top.xml"
     },
     {
-        "merged": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\ferna\\Documents\\GitHub\\Hello-World\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\drawable_aac.jpg.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\drawable\\aac.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Hello-World\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\Hello-World\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]
