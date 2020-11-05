@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorGray">
-
-    <Button
-        android:id="@+id/triggerNotification"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="256dp"
-        android:text="Trigger Notif"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></Button>
-
-    <Button
-        android:id="@+id/berhenti"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:layout_marginEnd="56dp"
-        android:text="Berhenti"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/triggerNotification" />
-
-    <Button
-        android:id="@+id/mulai"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="56dp"
-        android:layout_marginTop="60dp"
-        android:text="Mulai"
-        app:layout_constraintEnd_toStartOf="@+id/berhenti"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/triggerNotification" />
+<Button
+    android:id="@+id/triggerNotification"
+    android:text="Trigger Notif"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+</Button>
 </android.support.constraint.ConstraintLayout>

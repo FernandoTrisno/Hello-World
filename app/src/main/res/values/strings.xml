@@ -3,14 +3,4 @@
     <string name="title_activity_home">HomeActivity</string>
     <string name="tab_text_1">Daftar Kelas</string>
     <string name="tab_text_2">Pengumuman</string>
-    <string-array name="film">
-        <item>Ayat-Ayat Cinta</item>
-        <item>Ada Apa Dengan Cinta 2</item>
-        <item>Story of Kale</item>
-    </string-array>
-    <string-array name="film_desc">
-        <item>Film jadul sejuta umat</item>
-        <item>Rangga?</item>
-        <item>Bisa ditonton dengan bayar 10 ribu nonton</item>
-    </string-array>
 </resources>
