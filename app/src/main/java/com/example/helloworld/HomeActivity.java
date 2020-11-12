@@ -8,20 +8,21 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.TabLayout;
 import android.support.v4.app.NotificationCompat;
-import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.CompoundButton;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Switch;
 
 import com.example.helloworld.ui.main.BroadcastReciver;
-import com.example.helloworld.ui.main.SectionsPagerAdapter;
 
 public class HomeActivity extends AppCompatActivity {
     private Switch wifiSwitch;
     private WifiManager wifiManager;
+    private Button btnLogout;
+    private Preferences sharedPrefManager;
+
+
 
     private BroadcastReciver wifiStateReciver = new BroadcastReciver() {
 
@@ -40,11 +41,32 @@ public class HomeActivity extends AppCompatActivity {
         }
     };
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-        wifiSwitch = findViewById(R.id.wifi_switch);
+
+        sharedPrefManager = new Preferences(this);
+        btnLogout = findViewById(R.id.btnlogout);
+        btnLogout.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                onClickBtnLogout();
+            }
+        });
+
+        }
+
+    private void onClickBtnLogout() {
+        sharedPrefManager.saveSPBoolean(Preferences.SP_SUDAH_LOGIN, false);
+        startActivity(new Intent(HomeActivity.this, LoginActivity.class)
+                .addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK));
+        finish();
+    }
+
+
+        //Wifi
+   /*     wifiSwitch = findViewById(R.id.wifi_switch);
         wifiManager = (WifiManager) getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 
         SectionsPagerAdapter sectionsPagerAdapter = new SectionsPagerAdapter(this, getSupportFragmentManager());
@@ -66,7 +88,7 @@ public class HomeActivity extends AppCompatActivity {
                 }
             }
         });
-    }
+    }*/
 
     @Override
     protected void onStart() {
@@ -80,6 +102,7 @@ public class HomeActivity extends AppCompatActivity {
         super.onStop();
         unregisterReceiver(wifiStateReciver);
     }
+
 
 
     private void NotifikasiWifi(String title, String message) {

@@ -112,4 +112,11 @@
         android:paddingRight="5dp"
         android:text="Login"/>
 
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="Sign Up"/>
 </LinearLayout>
