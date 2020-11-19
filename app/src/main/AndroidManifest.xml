@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.helloworld">
 
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
@@ -17,7 +18,8 @@
         <activity
             android:name="com.example.helloworld.HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar"
+            tools:ignore="Instantiatable"></activity>
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,7 +27,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".SignUpActivity"
+            tools:ignore="Instantiatable"></activity>
+        <activity android:name=".InputActivity"
+            tools:ignore="Instantiatable"></activity>
         <receiver android:name=".ui.main.BroadcastReciver" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
