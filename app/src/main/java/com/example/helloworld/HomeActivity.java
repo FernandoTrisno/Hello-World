@@ -8,8 +8,9 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
-import android.support.v4.app.NotificationCompat;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v4.app.NotificationCompat;
+//import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Switch;
@@ -24,6 +25,7 @@ public class HomeActivity extends AppCompatActivity {
 
 
 
+/*
     private BroadcastReciver wifiStateReciver = new BroadcastReciver() {
 
 
@@ -40,6 +42,7 @@ public class HomeActivity extends AppCompatActivity {
             }
         }
     };
+*/
 
 
     @Override
@@ -105,7 +108,7 @@ public class HomeActivity extends AppCompatActivity {
 
 
 
-    private void NotifikasiWifi(String title, String message) {
+   /* private void NotifikasiWifi(String title, String message) {
         String CHANNEL_ID = "WIFI_NOTIFICATION_ID";
         NotificationChannel nChannel = new NotificationChannel(CHANNEL_ID, "Channel ID", NotificationManager.IMPORTANCE_HIGH);
         NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
@@ -119,7 +122,7 @@ public class HomeActivity extends AppCompatActivity {
                 .setContentText(title)
                 .build();
         notificationManager.notify(0, builder);
-    }
+    }*/
 
 
 }
