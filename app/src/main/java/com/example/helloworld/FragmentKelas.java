@@ -23,13 +23,16 @@ public class FragmentKelas extends Fragment {
     Button btnNotifTrigger;
     Button btnMulai = null;
     Button btnBerhenti = null;
-
+    private Button btnCamera;
+    private Button btnOrienation;
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         btnMulai = getView().findViewById(R.id.mulai);
         btnBerhenti = getView().findViewById(R.id.berhenti);
+        btnCamera = getView().findViewById(R.id.btnCamera);
+        btnOrienation = getView().findViewById(R.id.btnOrientation);
         btnMulai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
